@@ -8,7 +8,7 @@ import flask
 
 STYLE = """
 body {
-  background-color: red;
+  background-color: blue;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
   padding: 10%;
