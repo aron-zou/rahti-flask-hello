@@ -6,8 +6,6 @@ import os
 from pathlib import Path
 import flask
 
-# Templates
-# In a proper Flask application all these templates should be in indepent files
 STYLE = """
 body {
   background-color: silver;
